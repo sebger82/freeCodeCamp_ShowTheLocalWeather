@@ -14,3 +14,7 @@ Fukkcjonalność w wersji 1.0 z dnia 24.04.2017 r.
 Znane błędy w wersji 1.0
 
 1. W niektórych przypadkach występuje błąd z doborem ikonek do pory dnia, natomiast poprawnie dobiera do warunków atmosferycznych.
+
+OSTRZEŻENIE
+
+1. Google Chrome umożliwia użycie geolokalizacji jedynie poprzez https://, także proszę użyć innej przeglądarki do testów!
