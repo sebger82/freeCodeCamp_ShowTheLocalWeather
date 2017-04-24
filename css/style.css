@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'texgyreherosbold';
+    src: url('texgyreheros-bold-webfont.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    background-color: black;
+    color: white;
+    font-family: texgyreherosbold, sans-serif;
+}
+#container-fluid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    min-height: 100vh;
+}
+.temperature {
+    font-size: 6rem;
+}
+.weather {
+    font-size: 3rem;
+}
+footer {
+    text-align: left;
+    margin-top: 2rem;
+}
