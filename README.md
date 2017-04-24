@@ -17,4 +17,4 @@ Znane błędy w wersji 1.0
 
 OSTRZEŻENIE
 
-1. Google Chrome umożliwia użycie geolokalizacji jedynie poprzez https://, także proszę użyć innej przeglądarki do testów!
+1. Google Chrome, Opera, Firefox umożliwiają użycie geolokalizacji jedynie poprzez https://. Dodałem certyfikat SSL do domeny, na której jest strona, niestety dostęp do API mam tylko po http, chyba że zapłacę 500 dolarów! Proszę używać do testów IE11, Edge po http, albo pozostałych przeglądarek po https, ale potwierdzając komunikat o potencjalnie niebezpiecznej zawartości.
