@@ -14,6 +14,7 @@ Fukkcjonalność w wersji 1.0 z dnia 24.04.2017 r.
 Znane błędy w wersji 1.0
 
 1. W niektórych przypadkach występuje błąd z doborem ikonek do pory dnia, natomiast poprawnie dobiera do warunków atmosferycznych.
+2. Program wymaga zmiany API, aby komunikować się po https://
 
 OSTRZEŻENIE
 
